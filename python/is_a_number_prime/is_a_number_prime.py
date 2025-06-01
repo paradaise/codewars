@@ -10,3 +10,6 @@ def is_prime(num):
 print(is_prime(73))  # True
 print(is_prime(75))  # False
 print(is_prime(-1))  # False
+
+
+73
